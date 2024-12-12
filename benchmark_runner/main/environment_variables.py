@@ -12,7 +12,7 @@ class EnvironmentVariables:
     This class manage environment variable parameters
     """
 
-    HAMMERDB_LSO_LEN = 4
+    HAMMERDB_LSO_LEN = 43
 
     def __init__(self):
 
